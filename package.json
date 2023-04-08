@@ -1,0 +1,39 @@
+{
+  "name": "html-to-pdf-node",
+  "version": "1.0.0",
+  "description": "A opensource package for node to convert html to pdf ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js -R spec --ui bdd --timeout 10000"
+  },
+  "author": "CoderDotJs",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "handlebars": "^4.7.7",
+    "inline-css": "^4.0.2",
+    "puppeteer": "^19.8.5"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "nodejs",
+    "puppeteer",
+    "handlebars",
+    "ejs",
+    "express js",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrafiqk/html-pdf-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrafiqk/html-pdf-node/issues"
+  },
+  "homepage": "https://github.com/mrafiqk/html-pdf-node#readme"
+}
