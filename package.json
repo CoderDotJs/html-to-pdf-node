@@ -1,5 +1,5 @@
 {
-  "name": "html-to-pdf-node",
+  "name": "@akash3080/html-to-pdf-node",
   "version": "1.0.0",
   "description": "A opensource package for node to convert html to pdf ",
   "main": "index.js",
@@ -30,10 +30,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrafiqk/html-pdf-node.git"
+    "url": "git+https://github.com/CoderDotJs/html-to-pdf-node"
   },
   "bugs": {
-    "url": "https://github.com/mrafiqk/html-pdf-node/issues"
+    "url": "https://github.com/CoderDotJs/html-to-pdf-node/issues"
   },
-  "homepage": "https://github.com/mrafiqk/html-pdf-node#readme"
+  "homepage": "https://github.com/CoderDotJs/html-to-pdf-node#readme"
 }
