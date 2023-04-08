@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-npm install html-to-pdf-node
+npm install @akash3080/html-to-pdf-node
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install html-to-pdf-node
 To convert `HTML` page to `PDF` using `generatePdf` method:
 
 ```js
-var html_to_pdf = require("html-to-pdf-node");
+var html_to_pdf = require("@akash3080/html-to-pdf-node");
 
 let options = { format: "A4" };
 // Example of options with args //
