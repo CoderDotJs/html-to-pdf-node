@@ -1,6 +1,6 @@
 {
   "name": "@akash3080/html-to-pdf-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A opensource package for node to convert html to pdf ",
   "main": "index.js",
   "scripts": {

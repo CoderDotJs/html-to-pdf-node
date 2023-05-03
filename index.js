@@ -13,6 +13,7 @@ async function generatePdf(file, options, callback) {
 
   const browser = await puppeteer.launch({
     args: args,
+    headless: true,
   });
   const page = await browser.newPage();
 
